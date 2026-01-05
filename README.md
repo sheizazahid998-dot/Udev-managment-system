@@ -7,5 +7,5 @@
 ![Services](assets/screenshots/picture2.png)
 
 ### ℹ️ About Us
-![About](assets/screenshots/picture 3.png)
+![About](assets/screenshots/picture3.png)
 
