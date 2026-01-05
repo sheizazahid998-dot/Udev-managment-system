@@ -4,7 +4,7 @@
 ![Home Page](assets/screenshots/picture1.png)
 
 ### 🛠 Services Section
-![Services](assets/screenshots/picture1.png)
+![Services](assets/screenshots/picture2.png)
 
 ### ℹ️ About Us
 ![About](assets/screenshots/picture 3.png)
